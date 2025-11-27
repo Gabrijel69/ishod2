@@ -12,3 +12,4 @@ Ime je:Gabrijel TestPage.vue:28:15
 
 Poruka u konzoli na klijentskoj strani:
 Ime je:undefined
+jjjj
